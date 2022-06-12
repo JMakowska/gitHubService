@@ -1,0 +1,15 @@
+com\example\github\service\config\GitHubErrorDecoder.class
+com\example\github\service\dto\RepositoryDTO.class
+com\example\github\service\GitHubServiceApplication.class
+com\example\github\service\dto\GitHubErrorMessageDTO.class
+com\example\github\service\rest\controller\RestExceptionHandler.class
+com\example\github\service\config\TokenHolder.class
+com\example\github\service\dto\OrganizationDTO.class
+com\example\github\service\dto\ContributorDTO.class
+com\example\github\service\rest\client\RepositoryClient.class
+com\example\github\service\dto\RepositoryOwnerDTO.class
+com\example\github\service\dto\ErrorResponseDTO.class
+com\example\github\service\rest\client\OrganizationClient.class
+com\example\github\service\rest\controller\GitHubController.class
+com\example\github\service\config\AppConfiguration.class
+com\example\github\service\service\GitHubService.class

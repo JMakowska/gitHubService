@@ -1,0 +1,15 @@
+D:\_Repos\githubService\src\main\java\com\example\github\service\config\AppConfiguration.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\config\TokenHolder.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\dto\ContributorDTO.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\dto\OrganizationDTO.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\rest\controller\RestExceptionHandler.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\rest\client\OrganizationClient.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\dto\RepositoryOwnerDTO.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\dto\RepositoryDTO.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\rest\controller\GitHubController.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\GitHubServiceApplication.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\dto\ErrorResponseDTO.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\config\GitHubErrorDecoder.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\rest\client\RepositoryClient.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\service\GitHubService.java
+D:\_Repos\githubService\src\main\java\com\example\github\service\dto\GitHubErrorMessageDTO.java
