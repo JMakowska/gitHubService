@@ -1,5 +1,6 @@
 # GitHubService
 Simple REST service that retrieves and processes data from GitHub created for the purposes of the recruitment process.
+For th proper operation of the app, it is necessary to define the `GH_TOKEN` environment variable containing GitHub token.
 
 ### Run application as Docker container
 To run application as Docker container, you should run the following commands from the project directory level. By default, the application listens on port 8080.
